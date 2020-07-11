@@ -1,0 +1,40 @@
+body{
+    background: url(image/fon2.GIF) center repeat;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: Arial;
+    font-size: 24 pt;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.images{
+    width: 22%;
+    float: right; 
+    height: 500 px;
+    margin: 0;
+    padding: 0;
+    margin-left: 2%;
+    margin-right: 25%;
+}
+
+.text{
+    background: #ff0;
+    width: 20%;
+    float: left;
+    border: 3px solid blue;
+    margin: 0;
+    padding: 0;
+    margin-top: 6%;
+    margin-left: 28%;
+}
+
+.box{
+    margin: 0 auto;
+    width: 80%;
+    height: 300px;
+}
